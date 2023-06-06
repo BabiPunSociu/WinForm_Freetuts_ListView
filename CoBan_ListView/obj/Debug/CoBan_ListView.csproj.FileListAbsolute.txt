@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ListView\CoBan_ListView\bin\Debug\CoBan_ListView.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ListView\CoBan_ListView\bin\Debug\CoBan_ListView.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ListView\CoBan_ListView\bin\Debug\CoBan_ListView.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ListView\CoBan_ListView\obj\Debug\CoBan_ListView.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ListView\CoBan_ListView\obj\Debug\CoBan_ListView.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ListView\CoBan_ListView\obj\Debug\CoBan_ListView.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ListView\CoBan_ListView\obj\Debug\CoBan_ListView.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ListView\CoBan_ListView\obj\Debug\CoBan_ListView.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ListView\CoBan_ListView\obj\Debug\CoBan_ListView.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ListView\CoBan_ListView\obj\Debug\CoBan_ListView.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ListView\CoBan_ListView\obj\Debug\CoBan_ListView.pdb
